@@ -1,5 +1,3 @@
-/// <reference path = "typings/index.d.ts" />
-
 /**
  * Created by scott on 6/15/16.
  */
