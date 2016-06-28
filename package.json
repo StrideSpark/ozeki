@@ -1,6 +1,6 @@
 {
   "name": "ozeki",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "log json to sumologic",
   "main": "index.js",
   "typings": "index.d.ts",
