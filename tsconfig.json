@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "noResolve": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "atom": {
+    "formatOnSave": true
+  }
+}
