@@ -8,7 +8,7 @@
     "prepublish": "tsc --declaration"
   },
   "author": "",
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "repository": "StrideSpark/ozeki",
   "devDependencies": {
     "typescript": "^1.9.0-dev.20160624-1.0",
