@@ -1,5 +1,6 @@
 # ozeki
-a logger that sends json logs to sumologic and allows for adding contextual fields to those json messages
+a logger that sends json logs to sumologic and allows for adding contextual fields to those json messages.
+written in typescript and includes typescript definitions.
 
 ## installation
 
